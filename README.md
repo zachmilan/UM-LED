@@ -15,7 +15,7 @@ Designed to resemble a polished consumer product, it includes multiple display m
 
 ## Concept Image
 
-An early prototype illustrates UM-LED’s consumer-style design: a Block-M LED display paired with a compact remote. Both units prioritize simplicity, feedback, and intuitive controls.  
+An early prototype image illustrates UM-LED’s consumer-style design: a Block-M LED display paired with a compact remote. Both units prioritize simplicity, feedback, and intuitive controls.  
 
 <p align="center">
   <img src="https://github.com/zachmilan/UM-LED/raw/main/images/final_proto_img.png" alt="UM-LED concept / prototype image" width="400"/>
