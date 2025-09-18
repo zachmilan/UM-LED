@@ -29,12 +29,12 @@ An early prototype illustrates UM-LED’s consumer-style design: a Block-M LED d
 The project is built around two custom PCBs - one for the LED display and one for the handheld remote. The block diagrams below illustrate how each board integrates its microcontroller, peripherals, and supporting components.
 
 <p align="center">
-  <img src="https://github.com/zachmilan/UM-LED/raw/main/images/Display%20Block%20Diagram%20(2).png" alt="Display block diagram" width="500"/>
+  <img src="https://github.com/zachmilan/UM-LED/raw/main/images/Display%20Block%20Diagram%20(2).png" alt="Display block diagram" width="600"/>
 </p>
 <p align="center"><em>Figure 2: Display block diagram</em></p>
 
 <p align="center">
-  <img src="https://github.com/zachmilan/UM-LED/raw/main/images/Remote%20Block%20Diagram%20(2).png" alt="Remote block diagram" width="500"/>
+  <img src="https://github.com/zachmilan/UM-LED/raw/main/images/Remote%20Block%20Diagram%20(2).png" alt="Remote block diagram" width="600"/>
 </p>
 <p align="center"><em>Figure 3: Remote block diagram</em></p>
 
