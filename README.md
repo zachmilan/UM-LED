@@ -54,8 +54,7 @@ The block diagrams below highlight the internal architecture of each board and t
 
 ## Development
 
-This repository documents the ongoing development of UM-LED, including hardware design files, firmware, and supporting documentation.  
-Project materials will be added incrementally as designs are refined and milestones are reached.  
+UM-LED is a work in progress. Project materials will be added incrementally as designs are refined and milestones are reached.  
 
 **Target completion date:** October 31, 2025.  
 
