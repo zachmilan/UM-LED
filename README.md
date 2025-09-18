@@ -40,13 +40,13 @@ The project is built around two custom PCBs - one for the LED display and one fo
 
 ---
 
-## Key Components
+## Major Hardware Components
 
-- **STM32F303RCT6 MCU** – Microcontroller for both boards, chosen for its high pin count and TSC peripheral.  
-- **IS31FL3248 LED Driver** – 48-channel constant-current driver for the display.  
-- **BM71 BLE Module** – Provides Bluetooth Low Energy communication between remote and display.  
-- **DRV2605L Haptic Driver** – Drives the LRA for haptic feedback in the remote.  
-- **MAX77715 USB-C Charger** – Manages charging for the display’s battery.  
+- **STM32F303RCT6 MCU** – Microcontroller used on both boards, providing control logic and capacitive-touch support through its TSC peripheral.  
+- **IS31FL3248 LED Driver** – 48-channel constant-current driver used on the display board to control individual LEDs.  
+- **BM71 BLE Module** – Bluetooth Low Energy module enabling wireless communication between the display and remote.  
+- **DRV2605L Haptic Driver** – Driver used on the remote to control the LRA and provide haptic feedback.  
+- **MAX77715 USB-C Charger** – Power management IC used on the display to handle battery charging over USB-C.  
 
 ---
 
