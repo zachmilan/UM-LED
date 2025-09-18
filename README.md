@@ -11,19 +11,19 @@ UM-LED is a remote-controlled LED display in the shape of the University of Mich
 ## Concept Image
 
 <p align="center">
-  <img src="https://github.com/zachmilan/UM-LED/raw/main/images/final_proto_img.png" alt="UM-LED concept / prototype image" width="500"/>
+  <img src="https://github.com/zachmilan/UM-LED/raw/main/images/final_proto_img.png" alt="UM-LED concept / prototype image" width="400"/>
 </p>
 <p align="center"><em>Figure 1: UM-LED concept / prototype image</em></p>
 
 ## Block Diagrams
 
 <p align="center">
-  <img src="https://github.com/zachmilan/UM-LED/raw/main/images/Display%20Block%20Diagram%20(2).png" alt="Display block diagram" width="600"/>
+  <img src="https://github.com/zachmilan/UM-LED/raw/main/images/Display%20Block%20Diagram%20(2).png" alt="Display block diagram" width="400"/>
 </p>
 <p align="center"><em>Figure 2: Display block diagram</em></p>
 
 <p align="center">
-  <img src="https://github.com/zachmilan/UM-LED/raw/main/images/Remote%20Block%20Diagram%20(2).png" alt="Remote block diagram" width="600"/>
+  <img src="https://github.com/zachmilan/UM-LED/raw/main/images/Remote%20Block%20Diagram%20(2).png" alt="Remote block diagram" width="400"/>
 </p>
 <p align="center"><em>Figure 3: Remote block diagram</em></p>
 
