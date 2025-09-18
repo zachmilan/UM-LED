@@ -7,7 +7,7 @@ Designed to resemble a polished consumer product, it includes adjustable brightn
 
 ## System Overview
 
-- **LED Display** – A Block-M array of individually controlled through-hole LEDs driven by dedicated LED drivers. The display supports multiple patterns, animations, and brightness levels, and integrates ambient light sensing for auto-dimming, battery monitoring, and on-board logging to microSD.  
+- **LED Display** – A Block-M array of individually controlled through-hole LEDs driven by dedicated LED drivers. The display supports multiple patterns, animations, and brightness levels, and integrates ambient light sensing for auto-dimming, battery monitoring, and on-board power-logging to microSD.  
 
 - **Handheld Remote** – A wireless BLE controller featuring a capacitive-touch brightness slider, tactile buttons for mode selection, haptic feedback, status indicators, and its own rechargeable battery.
 
