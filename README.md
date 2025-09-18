@@ -1,13 +1,13 @@
 # UM-LED
 
 UM-LED is a remote-controlled LED display in the shape of the University of Michigan’s Block-M, paired with a custom handheld remote.  
-Designed to resemble a polished consumer product, it features multiple display modes, adjustable brightness, haptic feedback, and rechargeable batteries.
+Designed to resemble a polished consumer product, it features multiple display modes, adjustable brightness, haptic feedback, and rechargeability.
 
 ---
 
 ## System Overview
 
-- **LED Display** – A Block-M array of individually controlled through-hole LEDs driven by dedicated LED drivers. The display supports patterns, animations, brightness control, auto-dimming with ambient light sensing, battery monitoring, and on-board power logging to microSD.  
+- **LED Display** – A Block-M array of individually controlled LEDs driven by dedicated LED drivers. The display supports patterns, animations, brightness control, auto-dimming with ambient light sensing, battery monitoring, and on-board power logging to microSD.  
 
 - **Handheld Remote** – A BLE controller with a capacitive-touch brightness slider, tactile buttons for mode selection, haptic feedback, status indicators, and its own rechargeable battery.
 
