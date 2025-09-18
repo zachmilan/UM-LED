@@ -10,19 +10,16 @@ UM-LED is a remote-controlled LED display in the shape of the University of Mich
 
 ## Concept Image
 
-<img src="https://raw.githubusercontent.com/zachmilan/UM-LED/main/images/final_proto_img.png" alt="UM-LED concept / prototype image" width="600" />
+![UM-LED concept / prototype image](https://github.com/zachmilan/UM-LED/raw/main/images/final_proto_img.png)
 
 ## Block Diagrams
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zachmilan/UM-LED/main/images/Display%20Block%20Diagram%20(2).png" alt="Display block diagram" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/zachmilan/UM-LED/main/images/Remote%20Block%20Diagram%20(2).png" alt="Remote block diagram" width="48%" />
-</p>
+![Display block diagram](https://github.com/zachmilan/UM-LED/raw/main/images/Display%20Block%20Diagram%20(2).png)
+![Remote block diagram](https://github.com/zachmilan/UM-LED/raw/main/images/Remote%20Block%20Diagram%20(2).png)
 
 ## Development
 
 This repository will contain the complete project: hardware design files, embedded firmware, and supporting documentation.  
 **Estimated completion date:** October 31, 2025.
 
-📄 <a href="https://raw.githubusercontent.com/zachmilan/UM-LED/main/UM-LED%20Design%20Proposal.pdf" target="_blank" rel="noopener">UM-LED Design Proposal (PDF)</a>
+📄 [UM-LED Design Proposal (PDF)](https://github.com/zachmilan/UM-LED/raw/main/UM-LED%20Design%20Proposal.pdf)
