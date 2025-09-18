@@ -1,22 +1,22 @@
 # UM-LED
 
 UM-LED is a remote-controlled LED display in the shape of the University of Michigan’s Block-M, paired with a custom handheld remote.  
-Designed to resemble a polished consumer product, it features adjustable brightness, multiple LED modes, auto-dimming, haptic feedback, and rechargeable batteries.
+Designed to resemble a polished consumer product, it includes adjustable brightness, multiple display modes, haptic feedback, and rechargeable batteries.
 
 ---
 
 ## System Overview
 
-- **LED Display** – Block-M configuration of individually controlled through-hole LEDs, capable of multiple patterns with adjustable brightness.  
-- **Remote Control** – Handheld controller with capacitive-touch brightness slider, tactile buttons, haptic feedback, and status indicators.  
-- **Core Features** – BLE wireless control, auto-dimming via ambient light sensing, battery level indicators, power usage logging to microSD, and rechargeable Li-ion power systems.  
+- **LED Display** – A Block-M array of individually controlled through-hole LEDs driven by dedicated LED drivers. The display supports multiple patterns, animations, and brightness levels, and integrates ambient light sensing for auto-dimming, battery monitoring, and on-board logging to microSD.  
+
+- **Handheld Remote** – A wireless BLE controller featuring a capacitive-touch brightness slider, tactile buttons for mode selection, haptic feedback, status indicators, and its own rechargeable battery.
+
 
 ---
 
 ## Concept Image
 
-The early prototype concept highlights UM-LED’s consumer-style design:  
-a Block-M LED display paired with a compact remote. Both units prioritize simplicity, tactile feedback, and intuitive controls.  
+The early prototype concept highlights UM-LED’s consumer-style design: a Block-M LED display paired with a compact remote. Both units prioritize simplicity, user feedback, and intuitive controls.  
 
 <p align="center">
   <img src="https://github.com/zachmilan/UM-LED/raw/main/images/final_proto_img.png" alt="UM-LED concept / prototype image" width="400"/>
