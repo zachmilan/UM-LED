@@ -18,7 +18,7 @@ I wrote a full, more formal design proposal when beginning this project—see [U
 
 ### Assembled Remote Photos
 
-| Top View / Control Surface | Component Detail / PCB |
+| Top View | Bottom View |
 | :---: | :---: |
 | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8023.jpg?raw=true" width="400" alt="UM-LED Remote Top View"> | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8024.jpg?raw=true" width="400" alt="UM-LED Remote PCB Detail"> |
-| *Placeholder: Top view of the assembled remote showing the capacitive touch interface.* | *Placeholder: Close-up of the PCB assembly and soldered components.* |
+| *The top of the is simply most of the hardware and the UI* | *The underside hides the battery and haptic moter (both hot-glued)* |
