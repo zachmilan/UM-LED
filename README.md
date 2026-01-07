@@ -9,3 +9,7 @@ The remote has some cool features - capacitive touch pads (to be used for bright
 My next step is to finish the remote firmware and then to design the schematic for the LED display (which will, in theory, be quicker than the remote).
 
 I wrote a full, more formal design proposal when beginning this project (which I likely spent too much time on) - see [UM-LED Design Proposal (PDF)](docs/UM-LED%20Design%20Proposal.pdf). The main idea is still intact though it may not reflect the full design once done (for example, the accelerometer was an afterthought and hence is not included in the proposal.)
+
+Below are some photos of the assembled remote: 
+
+
