@@ -10,7 +10,7 @@ As of now, the remote is fully assembled and I am nearing completion for the rem
 * **Haptic Motor:** Provides clear tactile feedback for user interactions.
 
 ### Project Status & Next Steps:
-My next step is to finish the remote firmware and then to design the schematic for the LED display (which will, in theory, be quicker than the remote).
+My next step is to finish the remote firmware and then to continue schematic design for the LED display. 
 
 I wrote a full, more formal design proposal when beginning this project—see [UM-LED Design Proposal (PDF)](UM-LED_Design_Proposal.pdf). The main idea is still intact, though it may not reflect the full design once done (for example, the accelerometer was an afterthought and hence is not included in the proposal).
 
