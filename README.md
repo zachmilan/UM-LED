@@ -16,7 +16,7 @@ As of now, the remote is fully assembled and I am nearing completion for the rem
 | Top View | Bottom View |
 | :---: | :---: |
 | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8023.jpg?raw=true" width="400" alt="UM-LED Remote Top View"> | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8024.jpg?raw=true" width="400" alt="UM-LED Remote PCB Detail"> |
-| *The top exposes most hardware and the UI* | *The underside contains the battery and haptic moter (hot-glued)* |
+| *The top contains the hardware and UI* | *The underside contains the battery and haptic motor (hot-glued)* |
 
 
 ### Project Status & Next Steps:
