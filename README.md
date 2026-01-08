@@ -27,5 +27,7 @@ I wrote a full, more formal design proposal when beginning this project — see 
 
 Or, if you just want to get an idea of the general system architecture, see below: 
 
-<img src="https://github.com/zachmilan/UM-LED/blob/main/images/Remote%20Block%20Diagram%20(2).png?raw=true" alt="UM-LED Remote Block Diagram" width="500">
-*High-level block diagram of the UM-LED Remote hardware architecture.*
+| Remote Architecture | Display Architecture |
+| :---: | :---: |
+| <img src="https://github.com/zachmilan/UM-LED/blob/main/images/Remote%20Block%20Diagram%20(2).png?raw=true" width="400" alt="UM-LED Remote Architecture"> | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/Display%20Block%20Diagram%20(2).png?raw=true" width="400" alt="UM-LED Display Architecture"> |
+| *Signal flow for the remote, including the MCU, sensors, and haptic feedback.* | *System architecture for the LED display board and power regulation.* |
