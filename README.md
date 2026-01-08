@@ -27,3 +27,5 @@ I wrote a full, more formal design proposal when beginning this project — see 
 
 Or, if you just want to get an idea of the general system architecture, see below: 
 
+![UM-LED Remote Block Diagram](https://github.com/zachmilan/UM-LED/blob/main/images/Remote%20Block%20Diagram%20(2).png?raw=true)
+*High-level block diagram of the UM-LED Remote hardware architecture.*
