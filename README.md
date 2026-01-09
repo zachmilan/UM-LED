@@ -23,11 +23,11 @@ As of now, the remote is fully assembled and I am nearing completion of the remo
 Finishing the remote firmware is my current goal. Once complete, I will continue schematic design for the LED display, after which layout will commence. 
 
 ### More details
-I wrote a full, more formal design proposal when beginning this project — see [UM-LED Design Proposal (PDF)](UM-LED_Design_Proposal.pdf). The main idea is still intact, though it may not reflect the full design once done (for example, the accelerometer was an afterthought and hence is not included in the proposal).
+I wrote a full, more formal design proposal when beginning this project — see [UM-LED Design Proposal (PDF)](https://github.com/zachmilan/UM-LED/blob/main/docs/UM-LED%20Design%20Proposal%20(No%20Timeline).pdf). The main idea is still intact, though it may not reflect the full design once done (for example, the accelerometer was an afterthought and hence is not included in the proposal).
 
 Or, if you just want to get an idea of the general system architecture, see below: 
 
 | Remote Architecture | Display Architecture |
 | :---: | :---: |
 | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/Remote%20Block%20Diagram%20(2).png?raw=true" width="400" alt="UM-LED Remote Architecture"> | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/Display%20Block%20Diagram%20(2).png?raw=true" width="500" alt="UM-LED Display Architecture"> |
-| *Signal flow for the remote, including the MCU, sensors, and haptic feedback.* | *System architecture for the LED display board and power regulation.* |
+| *Signal flow for the remote, including the MCU, sensors, and haptic feedback.* | *System architecture for the LED display, including MCU, sensors, and and power regulation.* |
