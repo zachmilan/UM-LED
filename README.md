@@ -4,7 +4,9 @@ UM-LED is a personal embedded systems project I am currently developing. The mai
 
 ### Project Status 
 
-As of now, the remote is fully assembled and I am nearing completion of the remote's firmware. Soldering was done using a stencil + hot-plate as well as by hand for necessary parts. Luckily the first version of the board is sufficiently well designed and functions as intended after some debugging and rework. Photos of the assembled remote exist below: 
+As of now, the remote is fully assembled and I have verified functionality of most hardware components. Firmware is about halfway complete. Drivers for the accelerometer and haptic controller are done - I can reliably detect motion, and can queue/play haptic effects. Motion and button interrupts have been implemented (and debounced). I can obtain touch readings via the TSC library, and I've implemented an inactivity timer to put the remote to sleep when not in use. Charging and charging indicators (orange when charging, green when done) work as intended. 
+
+Assembly was done using a stencil + hot-plate as well as soldering by hand for necessary parts. Luckily the first version of the board is sufficiently well designed and functions as intended after some debugging and rework. Photos of the assembled remote exist below: 
 
 | Top View | Bottom View |
 | :---: | :---: |
