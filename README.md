@@ -6,7 +6,7 @@ UM-LED is a personal embedded systems project I am currently developing. The mai
 
 As of now, the remote is fully assembled and I have verified functionality of most hardware components. Charging, haptics, touch, and accelerometer all work as intended. Firmware is in development and about halfway complete. 
 
-Assembly was done using a stencil + hot-plate as well as soldering by hand for necessary parts. Luckily the first version of the board is sufficiently well designed and functions as intended after some debugging and rework. Photos of the assembled remote exist below: 
+Assembly was done using a stencil + hot-plate as well as hand soldering for necessary parts. This is the first version of the remote and hopefully the last, as it functions as intended after some debugging and rework. Photos of the assembled remote exist below: 
 
 | Top View | Bottom View |
 | :---: | :---: |
