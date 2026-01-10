@@ -1,6 +1,6 @@
 # UM-LED
 
-UM-LED is a personal embedded systems project I am currently developing. The main idea is to build a cool remote control LED display (in the shape of University of Michigan's "M") for my desk. This will be done by designing two PCB's - the remote and the display - and writing the firmware for each.
+UM-LED is a personal embedded systems project I am currently developing. The main idea is to build a cool remote control LED display (in the shape of the University of Michigan's "M") for my desk. This will be done by designing two PCB's - the remote and the display - and writing the firmware for each.
 
 ### Project Status 
 
