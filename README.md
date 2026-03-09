@@ -22,8 +22,6 @@ Features, photos, and two short demo videos of the assembled remote exist below.
 | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8023.jpg?raw=true" width="400" alt="UM-LED Remote Top View"> | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8024.jpg?raw=true" width="400" alt="UM-LED Remote PCB Detail"> |
 | *The top contains the hardware and UI* | *The underside contains the battery and haptic motor (hot-glued)* |
 
-### Firmware Demos
-
 <div align="center">
 
 **Capacitive Touch Demo**
