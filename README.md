@@ -16,7 +16,7 @@ Features, photos, and two short demo videos of the assembled remote exist below:
 * **Haptic Motor:** Provides clear tactile feedback for user interactions.
 * **USB-C Rechargeable:** Self explanatory, but easily charged with a USB-C cord and indicates charging status via lights.
 * **Low Battery Indication:** Red light informs user when remote needs to be charged.
-* 
+  
 | Top View | Bottom View |
 | :---: | :---: |
 | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8023.jpg?raw=true" width="400" alt="UM-LED Remote Top View"> | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8024.jpg?raw=true" width="400" alt="UM-LED Remote PCB Detail"> |
