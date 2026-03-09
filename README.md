@@ -36,9 +36,3 @@ Or, if you just want to get an idea of the general system architecture, see belo
 -LED Remote Architecture"> | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/Display%20Block%20Diagram%20(2).png?raw=true" width="500" alt="UM-LED Display Architecture"> |
 | *Signal flow for the remote, including the MCU, sensors, and haptic feedback.* | *System architecture for the LED display, including MCU, sensors, and power regulation.* |
 
-### Firmware Demos
-| Capacitive Touch Demo | Remote Sleep Demo |
-| :---: | :---: |
-| https://github.com/user-attachments/assets/bd866a0d-1efd-45fc-9129-0372a43028ab | https://github.com/user-attachments/assets/c11abb02-e6e1-4325-9b7a-56cc4e109a6d |
-| *Each touch triggers an LED indication and haptic feedback. Turn volume up to hear the haptics firing!* | *The remote is woken by movement. After 10 seconds of no motion, it falls back asleep.* |
-
