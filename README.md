@@ -8,19 +8,19 @@ March 9, 2026: The remote is complete and the firmware is in a consistent workin
 
 This is the first (and hopefully only) version of the remote PCB. Assembly was done using a stencil + hot-plate as well as hand soldering for necessary parts. Some rework and debugging was involved. 
 
-Photos and two short demo videos of the assembled remote exist below: 
-
-| Top View | Bottom View |
-| :---: | :---: |
-| <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8023.jpg?raw=true" width="400" alt="UM-LED Remote Top View"> | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8024.jpg?raw=true" width="400" alt="UM-LED Remote PCB Detail"> |
-| *The top contains the hardware and UI* | *The underside contains the battery and haptic motor (hot-glued)* |
+Features, photos, and two short demo videos of the assembled remote exist below: 
 
 ### Remote Features:
 * **Capacitive Touch Pads:** Used for easy brightness control.
 * **Accelerometer:** Automatically wakes the remote when picked up.
-* **Haptic Motor:** Provides clear feedback for user interactions.
+* **Haptic Motor:** Provides clear tactile feedback for user interactions.
 * **USB-C Rechargeable:** Self explanatory, but easily charged with a USB-C cord and indicates charging status via lights.
-* **Low Battery Indication:** Red light informs user when remote needs to be charged. 
+* **Low Battery Indication:** Red light informs user when remote needs to be charged.
+* 
+| Top View | Bottom View |
+| :---: | :---: |
+| <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8023.jpg?raw=true" width="400" alt="UM-LED Remote Top View"> | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8024.jpg?raw=true" width="400" alt="UM-LED Remote PCB Detail"> |
+| *The top contains the hardware and UI* | *The underside contains the battery and haptic motor (hot-glued)* |
 
 * ### Firmware Demos
 
