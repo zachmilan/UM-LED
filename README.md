@@ -4,9 +4,9 @@ UM-LED is a personal embedded systems project I am currently developing. The mai
 
 ### Project Status 
 
-As of now, the remote is complete and the firmware is in a consistent working state. Capacitive touch, BLE, haptics, motion detection, sleep timeout, charging and charging indicators, and low battery indicator all function as intended and have been integrated as a system. Changes to the remote's firmware will likely be made once the display is built and integrated, along with a few other polishing touches.  
+March 9, 2026: The remote is complete and the firmware is in a consistent working state. Capacitive touch, BLE, haptics, motion detection, sleep timeout, charging and charging indicators, and low battery indicator all function as intended and have been integrated as a system. Changes to the remote's firmware will likely be made once the display is built and integrated, along with a few other polishing touches. Next step is the display PCB schematic. 
 
-This is the first version of the remote PCB (and hopefully the last). Assembly was done using a stencil + hot-plate as well as hand soldering for necessary parts. Some rework and debugging was involved. Photos and two short demo videos of the assembled remote exist below: 
+This is the first (and hopefully only) version of the remote PCB. Assembly was done using a stencil + hot-plate as well as hand soldering for necessary parts. Some rework and debugging was involved. Photos and two short demo videos of the assembled remote exist below: 
 
 | Top View | Bottom View |
 | :---: | :---: |
@@ -40,8 +40,6 @@ https://github.com/user-attachments/assets/c11abb02-e6e1-4325-9b7a-56cc4e109a6d
 
 ---
 
-### Next Steps:
-Designing the display PCB schematic. 
 
 ### More details
 I wrote a full, more formal design proposal when beginning this project — see [UM-LED Design Proposal (PDF)](https://github.com/zachmilan/UM-LED/blob/main/docs/UM-LED%20Design%20Proposal%20(No%20Timeline).pdf). The main idea is still intact, though it may not reflect the full design once done (for example, the accelerometer was an afterthought and hence not included in the proposal).
