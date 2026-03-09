@@ -8,7 +8,7 @@ March 9, 2026: The remote is complete and the firmware is in a consistent workin
 
 This is the first (and hopefully only) version of the remote PCB. Assembly was done using a stencil + hot-plate as well as hand soldering for necessary parts. Some rework and debugging was involved. 
 
-Features, photos, and two short demo videos of the assembled remote exist below: 
+Features, photos, and two short demo videos of the assembled remote exist below.
 
 ### Remote Features:
 * **Capacitive Touch Pads:** Used for easy brightness control.
