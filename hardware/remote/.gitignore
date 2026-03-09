@@ -1,0 +1,6 @@
+# KiCad auto-generated files
+fp-info-cache
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-backups/

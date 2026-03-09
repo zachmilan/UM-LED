@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "7f33ebb1-e526-429a-91b8-fd800837831f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 149.86 29.21)
+		(size 22.86 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1353ae82-dec7-41cf-8d6b-cc0b8a25a3c9")
+		(property "Sheetname" "UserInput"
+			(at 149.86 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UserInput.kicad_sch"
+			(at 149.86 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "um_led"
+				(path "/7f33ebb1-e526-429a-91b8-fd800837831f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 39.37 30.48)
+		(size 22.86 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2630dd7d-41e8-4dbd-9f0b-be2d12ba4407")
+		(property "Sheetname" "Power"
+			(at 39.37 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 39.37 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "um_led"
+				(path "/7f33ebb1-e526-429a-91b8-fd800837831f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 111.125 29.845)
+		(size 22.225 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "de00c337-da97-44df-96ad-de3918775ed3")
+		(property "Sheetname" "UserFeedback"
+			(at 111.125 29.1334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "UserFeedback.kicad_sch"
+			(at 111.125 62.1796 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "um_led"
+				(path "/7f33ebb1-e526-429a-91b8-fd800837831f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 74.295 29.845)
+		(size 24.13 31.115)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fda5a6e2-4512-43f7-8f5d-9b63065ad9bb")
+		(property "Sheetname" "MCU"
+			(at 74.295 29.1334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 74.295 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "um_led"
+				(path "/7f33ebb1-e526-429a-91b8-fd800837831f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
