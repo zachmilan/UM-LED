@@ -19,6 +19,24 @@ This is the first version of the remote PCB (and hopefully the last). Assembly w
 * **Haptic Motor:** Provides clear feedback for user interactions.
 * **USB-C Rechargeable:** Self explanatory, but easily charged with a USB-C cord and indicates charging status via lights.
 
+* ### Firmware Demos
+
+<div align="center">
+
+**Capacitive Touch Demo**
+
+https://github.com/user-attachments/assets/bd866a0d-1efd-45fc-9129-0372a43028ab
+
+*Each touch triggers an LED indication and haptic feedback. Turn volume up to hear the haptics firing!*
+
+**Remote Sleep Demo**
+
+https://github.com/user-attachments/assets/c11abb02-e6e1-4325-9b7a-56cc4e109a6d
+
+*The remote is woken by movement. After 10 seconds of no motion, it falls back asleep.*
+
+</div>
+
 ---
 
 ### Next Steps:
