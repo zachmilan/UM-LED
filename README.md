@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/bd866a0d-1efd-45fc-9129-0372a43028ab
 
 https://github.com/user-attachments/assets/c11abb02-e6e1-4325-9b7a-56cc4e109a6d
 
-*The remote wakes upon movement, and falls back asleep after 10 seconds of inactivity. 
+*The remote wakes upon movement, and falls back asleep after 10 seconds of inactivity.*
 
 </div>
 
