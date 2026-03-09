@@ -30,13 +30,13 @@ Features, photos, and two short demo videos of the assembled remote exist below:
 
 https://github.com/user-attachments/assets/bd866a0d-1efd-45fc-9129-0372a43028ab
 
-*Each touch triggers an LED indication and haptic feedback. Turn volume up to hear the haptics firing.*
+*Each touch triggers an LED flash and haptic feedback (turn volume UP to hear haptics firing).*
 
 **Remote Sleep Demo**
 
 https://github.com/user-attachments/assets/c11abb02-e6e1-4325-9b7a-56cc4e109a6d
 
-*The remote is woken by movement. After 10 seconds of no motion, it falls back asleep.*
+*The remote wakes upon movement, and falls back asleep after 10 seconds of inactivity. 
 
 </div>
 
